@@ -1,0 +1,23 @@
+segment_sources:
+  PA7F751C2:
+    type: origin_type
+    relation: translation
+    language: sa
+  PBE60F361:
+    type: origin_type
+    relation: translation
+    language: zh
+  P9BCBBC8A:
+    type: origin_type
+    relation: translation
+    language: bo
+  PAE8A200C:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  722dbe8a01514f34876b72b42e337639:
+    PA7F751C2: 65f71898e2bc48f59f684ab9c9d99289
+    PBE60F361: 042c1a3ff43049ebab040d8b82d021e0
+    P9BCBBC8A: 96e3e827b771444680d717ee358e68da
+    PAE8A200C: 52461392ef954a798777e74c906a4597
